@@ -1,0 +1,42 @@
+Baik, berikut ini adalah 50 code challenge JavaScript level easy:
+
+Buat program yang menghitung jumlah dari dua bilangan
+Buat program yang mengecek apakah sebuah bilangan genap atau ganjil
+Buat program yang mengecek apakah sebuah bilangan prima atau bukan
+Buat program yang menampilkan bilangan ganjil di antara dua bilangan yang diberikan
+Buat program yang menampilkan angka terbesar di antara tiga bilangan yang diberikan
+Buat program yang menghitung jumlah huruf dalam sebuah string
+Buat program yang menampilkan jumlah huruf vokal dalam sebuah string
+Buat program yang menampilkan jumlah huruf konsonan dalam sebuah string
+Buat program yang menampilkan kata terpanjang dalam sebuah string
+Buat program yang mengecek apakah sebuah kata palindrom atau tidak
+Buat program yang mengecek apakah sebuah kata merupakan anagram atau tidak
+Buat program yang mengubah huruf pertama dari setiap kata dalam sebuah string menjadi huruf kapital
+Buat program yang menampilkan angka terkecil di antara tiga bilangan yang diberikan
+Buat program yang menampilkan bilangan prima di antara dua bilangan yang diberikan
+Buat program yang menampilkan bilangan faktorial dari sebuah bilangan
+Buat program yang menampilkan deret Fibonacci dari sebuah bilangan
+Buat program yang menampilkan bilangan kelipatan dari sebuah bilangan
+Buat program yang menampilkan bilangan prima dalam sebuah range bilangan
+Buat program yang menampilkan bilangan ganjil dalam sebuah range bilangan
+Buat program yang mengubah semua huruf dalam sebuah string menjadi huruf kapital
+Buat program yang mengubah semua huruf dalam sebuah string menjadi huruf kecil
+Buat program yang menghapus karakter yang diulang dalam sebuah string
+Buat program yang menghitung jumlah kata dalam sebuah string
+Buat program yang membalikkan sebuah string
+Buat program yang menghitung jumlah kemunculan karakter tertentu dalam sebuah string
+Buat program yang menghilangkan spasi di awal dan akhir sebuah string
+Buat program yang menghapus karakter tertentu dari sebuah string
+Buat program yang mengganti karakter tertentu dalam sebuah string dengan karakter lainnya
+Buat program yang memotong sebuah string menjadi beberapa bagian dengan panjang yang sama
+Buat program yang menggabungkan dua array menjadi satu array
+Buat program yang mengecek apakah sebuah array berisi bilangan yang sama atau tidak
+Buat program yang mengecek apakah sebuah array berisi string yang sama atau tidak
+Buat program yang menampilkan jumlah elemen dalam sebuah array
+Buat program yang menampilkan elemen terbesar dalam sebuah array
+Buat program yang menampilkan elemen terkecil dalam sebuah array
+Buat program yang menampilkan elemen unik dalam sebuah array
+Buat program yang menampilkan elemen yang berulang dalam sebuah array
+Buat program yang mengecek apakah sebuah bilangan ada dalam sebuah array atau tidak
+Buat program yang menampilkan bilangan terbesar kedua dalam sebuah array
+Buat program yang menampilkan bilangan terkecil kedua dalam
