@@ -1,7 +1,4 @@
-// Todo
-/*
- * Buat program yang mengecek apakah sebuah bilangan prima atau bukan ( Bilangan prima adalah bilangan yang hanya dapat dibagi dengan angka 1 dan dirinya sendiri tanpa sisa.)
- */
+// Todo Buat program yang mengecek apakah sebuah bilangan prima atau bukan ( Bilangan prima adalah bilangan yang hanya dapat dibagi dengan angka 1 dan dirinya sendiri tanpa sisa.)
 
 /*
     Berikut adalah langkah-langkah umum untuk menentukan apakah sebuah bilangan adalah bilangan prima:
@@ -32,7 +29,7 @@ function bilanganPrima(number) {
   return true;
 }
 
-const bilangan = 45;
+const bilangan = 4;
 if (bilanganPrima(bilangan)) {
   console.log(bilangan, 'Adalah bilangan prima');
 } else {
