@@ -39,4 +39,4 @@ Buat program yang menampilkan elemen unik dalam sebuah array
 Buat program yang menampilkan elemen yang berulang dalam sebuah array
 Buat program yang mengecek apakah sebuah bilangan ada dalam sebuah array atau tidak
 Buat program yang menampilkan bilangan terbesar kedua dalam sebuah array
-Buat program yang menampilkan bilangan terkecil kedua dalam
+Buat program yang menampilkan bilangan terkecil kedua dalam.
