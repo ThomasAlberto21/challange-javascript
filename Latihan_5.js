@@ -10,7 +10,7 @@
     * 4. Buat kondisi terakhir untuk return bilangan_3 jika yang lain tidak terpenuhi
     * 5. Deklarasikan variable dan inisialisasikan nilai ke dalam variable tersebut
     * 6. Panggil function yang sudah di deklarasikan tadi dan masukkan ketika variable tadi
-    * 7. Cetak hasilnya ke dalam console
+    * 7. Cetak hasilnya ke dalam console.
  */
 
 function angkaTerbesar(bilangan_1, bilangan_2, bilangan_3) {
